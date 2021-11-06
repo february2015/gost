@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="gost" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="gost" />
+    <working_directory value="$PROJECT_DIR$/cmd/gost" />
+    <kind value="DIRECTORY" />
+    <package value="github.com/ginuerzh/gost" />
+    <directory value="$PROJECT_DIR$/cmd/gost" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/../.." />
+    <method v="2" />
+  </configuration>
+</component>
